@@ -1,0 +1,15 @@
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/bin/Debug/net5.0/degiskenler.deps.json
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.json
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.dev.json
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/bin/Debug/net5.0/degiskenler.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/bin/Debug/net5.0/ref/degiskenler.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/bin/Debug/net5.0/degiskenler.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/obj/Debug/net5.0/degiskenler.csproj.AssemblyReference.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/obj/Debug/net5.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfoInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfo.cs
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/obj/Debug/net5.0/degiskenler.csproj.CoreCompileInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/obj/Debug/net5.0/degiskenler.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/obj/Debug/net5.0/ref/degiskenler.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/obj/Debug/net5.0/degiskenler.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/degiskenler/obj/Debug/net5.0/degiskenler.genruntimeconfig.cache
